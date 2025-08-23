@@ -16,31 +16,3 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffe&theme=radical" />
 </p>
-
-
-
-
-<table>
-  <tr>
-    <td><strong>C / C++</strong></td>
-    <td>Desenvolvimento de sistemas, algoritmos e estruturas de dados.</td>
-  </tr>
-  <tr>
-    <td><strong>Python</strong></td>
-    <td>Automação, análise de dados, APIs e inteligência artificial.</td>
-  </tr>
-  <tr>
-    <td><strong>Elixir</strong></td>
-    <td>Aplicações concorrentes e escaláveis com alta performance.</td>
-  </tr>
-  <tr>
-    <td><strong>PHP</strong></td>
-    <td>Web development, REST APIs e integração com bancos de dados.</td>
-  </tr>
-  <tr>
-    <td><strong>Lua</strong></td>
-    <td>Scripts leves para jogos, plugins e sistemas embarcados.</td>
-  </tr>
-</table>
-
-
