@@ -11,15 +11,6 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
----
-
-## 🧠 Sobre mim
-
-Sou desenvolvedor apaixonado por explorar diferentes linguagens e paradigmas. Gosto de mergulhar tanto no mundo dos sistemas de baixo nível com C/C++, quanto em linguagens funcionais como Elixir. Também crio aplicações web com PHP, scripts poderosos com Python e extensões leves com Lua.
-
----
-
-## 💼 Tecnologias que uso
 
 <table>
   <tr>
@@ -44,29 +35,10 @@ Sou desenvolvedor apaixonado por explorar diferentes linguagens e paradigmas. Go
   </tr>
 </table>
 
----
-
-## 📈 Estatísticas
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffe&show_icons=true&theme=radical" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffe&theme=radical" />
 </p>
 
----
-
-## 📫 Contato
-
-- 💌 Email: jeffe@exemplo.com  
-- 💼 LinkedIn: [linkedin.com/in/jeffe](https://linkedin.com/in/jeffe)  
-- 🐦 Twitter: [@jeffe_dev](https://twitter.com/jeffe_dev)
-
----
-
-> “Cada linguagem é uma lente diferente para enxergar o mundo da programação. E eu gosto de ver o mundo por todas elas.”
-
----
-
-🎯 *Sinta-se à vontade para explorar meus repositórios, contribuir ou trocar uma ideia comigo!*
 
