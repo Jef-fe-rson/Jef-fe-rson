@@ -16,3 +16,5 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffe&theme=radical" />
 </p>
+
+🎯 *Sinta-se à vontade para me chamar para projetos de contribuiçao!*
