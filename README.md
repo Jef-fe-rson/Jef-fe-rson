@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
-<p aling="left>
+<p align="center>
   <img src="https://github-readme-stats.vercel.app/api?username=jeffe&show_icons=true&theme=radical" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffe&theme=radical" />
