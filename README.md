@@ -27,45 +27,5 @@ tenho 15 anos e gosto de progamar, sinto prazer e felicidade em progamar, estou 
 
 ---
 
-## 💼 Tecnologias que uso
-
-<table>
-  <tr>
-    <td><strong>C / C++</strong></td>
-    <td>Desenvolvimento de sistemas, algoritmos e estruturas de dados.</td>
-  </tr>
-  <tr>
-    <td><strong>Python</strong></td>
-    <td>Automação, análise de dados, APIs e inteligência artificial.</td>
-  </tr>
-  <tr>
-    <td><strong>Elixir</strong></td>
-    <td>Aplicações concorrentes e escaláveis com alta performance.</td>
-  </tr>
-  <tr>
-    <td><strong>PHP</strong></td>
-    <td>Web development, REST APIs e integração com bancos de dados.</td>
-  </tr>
-  <tr>
-    <td><strong>Lua</strong></td>
-    <td>Scripts leves para jogos, plugins e sistemas embarcados.</td>
-  </tr>
-  <tr>
-    <td><strong>GraphQL</strong></td>
-    <td>Consultas flexíveis e eficientes para APIs modernas.</td>
-  </tr>
-  <tr>
-    <td><strong>Swagger</strong></td>
-    <td>Documentação interativa e testes de APIs REST.</td>
-  </tr>
-  <tr>
-    <td><strong>PostgreSQL</strong></td>
-    <td>Banco de dados relacional robusto e escalável.</td>
-  </tr>
-  <tr>
-    <td><strong>Redis</strong></td>
-    <td>Armazenamento em cache e gerenciamento de sessões em tempo real.</td>
-  </tr>
-</table>
 
 
