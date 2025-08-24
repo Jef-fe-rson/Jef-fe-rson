@@ -1,41 +1,50 @@
+<!-- Banner ou ASCII opcional aqui -->
 
-# 👋 Olá, eu sou [Seu Nome]
+# 👨‍💻 Desenvolvedor Backend | APIs | Sistemas de Alta Performance  
 
-💻 Desenvolvedor apaixonado por resolver problemas com código.  
-🎯 Focado em **backend, APIs e sistemas de alta performance**.  
-📚 Sempre aprendendo novas tecnologias e arquiteturas.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-- **Linguagens:**  
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-- **Banco de Dados:**  
-  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-- **APIs e Ferramentas:**  
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+Sou apaixonado por **resolver problemas complexos** e construir soluções escaláveis.  
+Minha stack é focada em **backend**, **bancos de dados**, **infra** e **APIs modernas**.  
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Stack Principal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+🖥️ **Linguagens**
+- Lua • Python • C • C++ • PHP  
+
+🛠️ **APIs & Ferramentas**
+- Swagger (OpenAPI) • GraphQL  
+
+🗄️ **Banco de Dados & Cache**
+- PostgreSQL • Redis  
 
 ---
 
-## 🌍 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/SEU_USUARIO)  
-- ✉️ Email: SEUEMAIL@example.com  
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
-⭐️ _Sempre em busca de aprender, contribuir e compartilhar conhecimento._
+
+## 🐍 Atividade
+
+<div align="center">
+  
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌍 Conecte-se
+- 🔗 [LinkedIn](https://linkedin.com/in/SEU_USUARIO)  
+- ✉️ **SEUEMAIL@example.com**
+
+---
+
+💡 _Código limpo, arquiteturas sólidas e aprendizado contínuo._
