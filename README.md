@@ -1,31 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Perfil GitHub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>👨‍💻 Desenvolvedor Multidisciplinar</h1>
+    <p>Explorando tecnologias modernas e clássicas</p>
+  </header>
 
-<!-- README.md -->
+  <section class="bio">
+    <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="Foto de perfil">
+    <p>Sou apaixonado por resolver problemas com código. Trabalho com backend, frontend, automações e infraestrutura.</p>
+  </section>
 
-<h1 align="center">👋 Olá, eu sou Jeffe!</h1>
+  <section class="skills">
+    <h2>🚀 Tecnologias</h2>
+    <ul>
+      <li><strong>GraphQL</strong> – APIs modernas e flexíveis</li>
+      <li><strong>PostgreSQL</strong> – Banco de dados robusto</li>
+      <li><strong>Lua</strong> – Scripts leves e eficientes</li>
+      <li><strong>C++ / C</strong> – Performance e controle</li>
+      <li><strong>PHP</strong> – Web dinâmico e rápido</li>
+      <li><strong>Python</strong> – Versátil e poderoso</li>
+      <li><strong>Swagger</strong> – Documentação de APIs</li>
+      <li><strong>Docker</strong> – Contêineres e deploy ágil</li>
+    </ul>
+  </section>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-A%2B-brightgreen?style=for-the-badge" />
-</p>
+  <section class="projects">
+    <h2>📂 Projetos em Destaque</h2>
+    <ul>
+      <li><a href="https://github.com/seu-usuario/graphql-api">GraphQL API</a></li>
+      <li><a href="https://github.com/seu-usuario/dockerized-app">App com Docker</a></li>
+      <li><a href="https://github.com/seu-usuario/postgres-manager">Gerenciador PostgreSQL</a></li>
+    </ul>
+  </section>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elixir-6E4A7E?style=for-the-badge&logo=elixir&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-## 🧠 Sobre mim
-tenho 15 anos e gosto de progamar, sinto prazer e felicidade em progamar, estou indo com calma um passo de cada vez
-
----
-
-
-
+  <footer>
+    <p>Feito com ❤️ por <a href="https://github.com/seu-usuario">seu-usuario</a></p>
+  </footer>
+</body>
+</html>
