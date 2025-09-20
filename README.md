@@ -21,19 +21,4 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <!-- Stats gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffe&show_icons=true&theme=radical" />
-  <br />
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffe&theme=radical" />
-  <br />
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffe&layout=compact&theme=radical" />
-  <br />
-  <!-- Contribuições por repositório -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=jeffe" />
-</p>
 
