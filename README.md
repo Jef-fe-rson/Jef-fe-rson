@@ -1,24 +1,32 @@
 <!-- README.md -->
+# 🚀 Meu Projeto Incrível
 
-<h1 align="center">👋 Olá, eu sou Jeffe!</h1>
+Este é um projeto que utiliza uma stack poderosa e versátil para desenvolvimento backend e infraestrutura. Abaixo estão as tecnologias que fazem parte do ecossistema:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-A%2B-brightgreen?style=for-the-badge" />
-</p>
+## 🛠️ Tecnologias Utilizadas
 
-<p align="center">
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elixir-6E4A7E?style=for-the-badge&logo=elixir&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" >
-  <!-- Tecnologias extras -->
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,c,linux,docker,nginx,elixir,lua,graphql,swagger,postgres,redis)](https://skillicons.dev)
 
----
+## 📦 Sobre o Projeto
+
+Este projeto foi desenvolvido com foco em performance, escalabilidade e boas práticas. Ele combina o poder do **Laravel** com a flexibilidade do **Docker** e a robustez do **PostgreSQL** e **Redis**.
+
+### Principais recursos:
+
+- 🔧 Backend em PHP com Laravel
+- 🐘 Banco de dados PostgreSQL
+- ⚡ Cache e filas com Redis
+- 🐳 Containerização com Docker
+- 🌐 Servidor Nginx
+- 🧬 API GraphQL documentada com Swagger
+- 🧠 Scripts e lógica em Elixir e Lua
+- 🖥️ Compatível com sistemas Linux
+- 💻 Componentes escritos em C para alto desempenho
+
+## 📚 Documentação
+
+A documentação da API está disponível via Swagger. Basta acessar o endpoint `/api/docs` após iniciar o projeto.
+
+## 🚀 Como rodar localmente
 
 
