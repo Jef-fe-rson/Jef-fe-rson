@@ -4,7 +4,8 @@ o melhor para meu codigo
 
 ## 🛠️ Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,c,linux,docker,nginx,elixir,lua,graphql,swagger,postgres,redis,git,gitlab,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,c,linux,docker,nginx,elixir,lua,graphql,
+postgres,redis,git,gitlab,obsidian)](https://skillicons.dev)
 
 
 
