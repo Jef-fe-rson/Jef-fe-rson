@@ -4,4 +4,4 @@ o meu melhor para meu código. Programo desde os 9 anos.
 
 ## 🛠️ Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,c,linux,docker,nginx,elixir,lua,graphql,postgres,redis,git,gitlab,obsidian,rabbitmq,grpc,elasticsearch,websocket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,c,linux,docker,nginx,elixir,lua,graphql,postgres,redis,git,gitlab,obsidian,rabbitmq,grpc,elasticsearch,websocket)(https://skillicons.dev)
